@@ -6,7 +6,7 @@
 sudo docker compose up -d
 ```
 
-3) - Verify is executing
+3) - Verify that it is running
 ```
 sudo docker ps
 ```
